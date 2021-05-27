@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Indie+Flower&display=swap');
+
+p {
+    font-family: 'Arcitects Daughter', cursive;
+}
+
+h1 {
+    font-family: 'Indie Flower', cursive;
+    color: rgb(110, 190, 247);
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(12, 82, 105);
+}
+
+a:active {
+    color: rgb(218, 112, 202);
+}
