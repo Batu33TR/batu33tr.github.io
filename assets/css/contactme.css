@@ -1,7 +1,7 @@
 .telegramlogo {
-    width: 150px;
+    width: 190px;
     height: auto;
-    /* padding-top: 10px; */
+    padding-top: 65px;
 }
 
 .telegramtext {
@@ -9,9 +9,9 @@
 }
 
 .instagramlogo {
-    width: 150px;
+    width: 190px;
     height: auto;
-    padding-top: 5px;
+    padding-top: 25px;
 }
 
 .instagramtext {
